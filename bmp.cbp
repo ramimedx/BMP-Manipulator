@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="sample.bmp --concatenar-horizontal sample.bmp --concatenar-vertical sample.bmp" />
+				<Option parameters="sample.bmp --concatenar-horizontal sample.bmp --concatenar-vertical sample.bmp --escala-de-grises --espejar-horizontal --rotar-derecha --invertir --aumentar-contraste=50 --tonalidad-azul=50 --recortar=50 --achicar=20" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -32,10 +32,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="funciones_grupo.c">
+		<Unit filename="funciones.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="funciones_grupo.h" />
+		<Unit filename="funciones.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
