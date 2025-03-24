@@ -13,8 +13,6 @@ ARGUMENTOS:
 "--espejar-vertical"
 "--rotar-derecha"
 "--rotar-izquierda"
-"--concatenar-horizontal"
-"--concatenar-vertical"
 "--invertir"
 "--concatenar-vertical nombre_de_la_nueva_imagen.bmp"       Ejemplo: --concatenar-vertical gato.bmp (puede concatenarse a si misma)
 "--concatenar-horizontal nombre_de_la_nueva_imagen.bmp"     Ejemplo: --concatenar-vertical gato.bmp (puede concatenarse a si misma)
