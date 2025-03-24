@@ -50,4 +50,4 @@ A continuacion se detallan los argumentos disponibles, junto con su forma de uso
 
 
 ### Achicar
-  Tambien recorta la imagen al "X%", pero conserva la informacion, aunque a menor resolucion. (--achicar=numero)
+  Tambien recorta la imagen al X%, pero conserva la informacion, aunque a menor resolucion. (--achicar=numero)
