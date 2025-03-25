@@ -1,4 +1,4 @@
-#include "funciones_grupo.h"
+#include "funciones.h"
 
 int solucion(int argc, char* argv[])
 {
