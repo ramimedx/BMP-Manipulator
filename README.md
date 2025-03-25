@@ -39,10 +39,10 @@ A continuacion se detallan los argumentos disponibles, junto con su forma de uso
   Invierte los colores de la imagen (--invertir)
 
 ### Aumentar/Reducir contraste
-  Se le envia tambien un numero para indicar el porcentaje de incremento o disminucion y realiza lo propio con el contraste de la imagen. (--aumentar-contraste=numero)/(--reducir-contraste=numero)
+  Se le envia un numero (1-99) para indicar el porcentaje de incremento o disminucion y realiza lo propio con el contraste de la imagen. (--aumentar-contraste=numero)/(--reducir-contraste=numero)
 
 ### Tonalidad azul/roja/verde
-  Se le envia un un numero y aumenta en ese porcentaje la tonalidad deseada. (--tonalidad-azul=numero)/(--tonalidad-roja=numero)/(--tonalidad-verde=numero)
+  Se le envia un numero (1-99) y aumenta en ese porcentaje la tonalidad deseada. (--tonalidad-azul=numero)/(--tonalidad-roja=numero)/(--tonalidad-verde=numero)
 
 
 ### Recortar
